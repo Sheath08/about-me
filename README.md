@@ -3,8 +3,9 @@
 Seth Heath
 
 ## Repository Links
-    - Repo Link
-    - Page Link
+
+- [Repo](https://github.com/Sheath08/about-me)
+- [Page](https://sheath08.github.io/about-me/)
 
 ## About
 
@@ -20,3 +21,7 @@ This repo will be used to talk about video games.
         - JavaScript
 
 ## Recommended Resources
+    This is where I would like to tell you about some recommended resources
+
+## Contributors
+    Here are the contributors
